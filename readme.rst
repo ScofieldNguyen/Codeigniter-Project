@@ -2,6 +2,7 @@
 What is CodeIgniter
 changed
 changed
+changed by Scofieldnguyen
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
